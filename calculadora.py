@@ -5,3 +5,6 @@ def somar (a, b):
 def subtrair (a, b):
     subtrair = a - b
     return subtrair
+def multiplicar (a, b):
+    multiplicar = a * b
+    return multiplicar
